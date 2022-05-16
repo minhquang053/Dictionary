@@ -15,7 +15,9 @@ JDK-17.0.3
 
 - Chạy file RunDictionary.vbs để mở ứng dụng hoàn chỉnh nhất (không nên chạy file jar hay subrun.bat vì sẽ bị lỗi tiếng Việt).
 - Nếu bị lỗi hiển thị tiếng việt khi ứng dụng bật Kompozer: ở Kompozer vào mục View->Character Encoding->Auto-Detect->Universal để hiển thị dưới dạng UTF-8.
-- Lưu ý: Chỉ chạy được trên Windows
+- Lưu ý: 
+  + Chỉ chạy được trên Windows
+  + Chỉ mở 1 ứng dụng khi dùng (Nhiều hơn sẽ không thao tác được với database)
 
 ## Giới thiệu về từ điển
 
